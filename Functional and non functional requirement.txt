@@ -1,0 +1,39 @@
+Typical functional requirements include:
+
+
+
+Business Rules
+Transaction corrections, adjustments and cancellations
+Administrative functions
+Authentication
+Authorization levels
+Audit Tracking
+External Interfaces
+Certification Requirements
+Reporting Requirements
+Historical Data
+Legal or Regulatory Requirements
+
+
+
+
+
+
+
+Typical non-functional requirements include:
+
+Performance – for example: response time, throughput, utilization, static volumetric
+Scalability
+Capacity
+Availability
+Reliability
+Recoverability
+Maintainability
+Serviceability
+Security
+Regulatory
+Manageability
+Environmental
+Data Integrity
+Usability
+Interoperability

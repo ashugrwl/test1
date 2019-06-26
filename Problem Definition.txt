@@ -1,0 +1,13 @@
+Definition
+
+	There is a MNC Fabrikam with 24 office want to         build a web site to know about their customer
+        and product with  online shoppingexperience.
+	Company also want Fedback Management System   and
+	leave management system for their organization .
+	First we need to take all information from the         organizationand then decide all functional and
+	 non functional requirment related
+	to the web site and then we create an account on         cloud to the web site 
+	on cloud . 
+
+
+	
